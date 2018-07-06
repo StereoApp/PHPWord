@@ -21,8 +21,6 @@ Read more about PHPWord:
 - [Developers' Documentation](http://phpword.readthedocs.org/)
 - [API Documentation](http://phpoffice.github.io/PHPWord/docs/master/)
 
-
-
 ## Features
 
 With PHPWord, you can create DOCX, ODT, or RTF documents dynamically using your PHP 5.3+ scripts. Below are some of the things that you can do with PHPWord library:
